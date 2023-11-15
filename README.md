@@ -1,4 +1,4 @@
-# ALS-Powered Movie Recommender: Sparking Personalized Cinema Selections
+<h1 align="center">ALS-Powered Movie Recommender: Sparking Personalized Cinema Selections</h1>
 
 ## Overview
 Developed by Sai Sanwariya Narayan, this project presents a sophisticated movie recommendation system based on the Alternating Least Squares (ALS) algorithm, implemented within the Apache Spark framework. This system aims to provide personalized movie suggestions by analyzing user reviews.
