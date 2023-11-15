@@ -1,0 +1,7 @@
+k,regularization,iterations,Validation RMS,Testing RMS
+13.0,0.1,15.0,0.9431823,Infinity
+13.0,0.1,30.0,0.9410051,Infinity
+13.0,0.2,15.0,0.9194652,Infinity
+13.0,0.2,30.0,0.9193901,0.9240177
+13.0,0.3,15.0,0.9436926,Infinity
+13.0,0.3,30.0,0.9436938,Infinity
