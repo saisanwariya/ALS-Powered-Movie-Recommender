@@ -3,8 +3,6 @@
 ## Overview
 Developed by Sai Sanwariya Narayan, this project presents a sophisticated movie recommendation system based on the Alternating Least Squares (ALS) algorithm, implemented within the Apache Spark framework. This system aims to provide personalized movie suggestions by analyzing user reviews.
 
-	__
-
 ## Program Functionality
 1. **Implementing ALS for Movie Recommendations:** Utilizes user reviews to provide recommendations, leveraging Spark's MLlib library.
 2. **Data Management and Analysis:** Involves splitting data into training, validation, and testing sets to ensure the robustness of the machine learning models.
